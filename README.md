@@ -1,2 +1,3 @@
 - 📊 Resultados de la implementación de los Puestos de Mando Operativo (PMO): https://omscgr.github.io/Evaluacion-PMO/
--  🤔 ¿Ayudaron los PMO a que existan menos robos en Quito?: https://omscgr.github.io/Evaluacion-PMO/index2
+- 🤔 ¿Ayudaron los PMO a que existan menos robos en Quito?: https://omscgr.github.io/Evaluacion-PMO/index2
+- 💻 Notebook: https://colab.research.google.com/drive/1yXc9RnoLVLTPdLJO2ooD7C8RHGqMFOSe?usp=sharing
